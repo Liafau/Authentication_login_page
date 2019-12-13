@@ -1,6 +1,7 @@
 <?php
 // Include config file
 require_once "config.php";
+//coba tambah
  
 // Define variables and initialize with empty values
 $username = $password = $confirm_password = "";
